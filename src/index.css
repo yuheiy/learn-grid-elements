@@ -1,11 +1,12 @@
 html {
+  font-family: system-ui;
   line-height: 1.5;
 }
 
 body {
   margin: 0;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 h1,
@@ -33,15 +34,14 @@ code {
 input {
   padding: 0.125rem 0.25rem;
   font: inherit;
-  font-family: system-ui;
 }
 
 .stack.-lg > * + * {
-  margin-top: 8rem;
+  margin-top: 6rem;
 }
 
 .stack.-md > * + * {
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 .container {
