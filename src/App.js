@@ -169,9 +169,9 @@ function App() {
           <div className="container">
             <pre>
               <code>{`<div class="row">
-  <div class="col -s3">…</div>
-  <div class="col -s3">…</div>
-  <div class="col -s3">…</div>
+  <div class="col -s4">…</div>
+  <div class="col -s4">…</div>
+  <div class="col -s4">…</div>
 </div>`}</code>
             </pre>
           </div>
@@ -283,9 +283,9 @@ function App() {
             <pre>
               <code>{`<div class="container">
   <div class="row">
-    <div class="col -s3">…</div>
-    <div class="col -s3">…</div>
-    <div class="col -s3">…</div>
+    <div class="col -s4">…</div>
+    <div class="col -s4">…</div>
+    <div class="col -s4">…</div>
   </div>
 </div>`}</code>
             </pre>
